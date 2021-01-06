@@ -3,9 +3,12 @@
 Desafio final BootCamp Desenvolvimento Mobile IGTI.
 
 - O que foi solicitado:  
+
 Desenvolver uma solução para empresa IGTI CarWashing, para que ela possa controlar a agenda das lavagens de automóveis.  
 Wireframes:  
+
 1° Splash Screen; 
+
 2° Menu principal; 
 3° Tela de cadastro de clientes; 
 4° Tela para agendar um serviço; 
