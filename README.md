@@ -31,4 +31,14 @@ Desenvolvido o APP na linguagem Dart utilizando o framework Flutter com armazena
 
 Para executar a solução, se faz necessário instalar os seguintes programas:
 
-* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
+* Android Studio - [DOWNLOAD AQUI](https://developer.android.com/studio?hl=pt-br)
+* Flutter - [DOWNLOAD AQUI](https://flutter.dev/docs/get-started/install/windows)
+* Emulador - Device, Emulador do Android Studio ou de sua preferência.
+
+## :pencil: Melhorias futuras:
+
+Esse projeto foi feito em um curto período de tempo, como próximas alterações pretendo: 
+- reorganizar a estrutura do projeto,
+- melhorar os layouts já existentes adicionando informações complementares,
+- adicionar novos recursos(envio de push notification com status do atendimento, etc)
+
